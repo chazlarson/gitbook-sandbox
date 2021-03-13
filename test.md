@@ -1,0 +1,4 @@
+|                     | Plex Libary Paths            | Sonarr Paths | Radarr Paths | Config: File Exist Mappings                                                    | Config: Server Mappings |
+| ------------------- | ---------------------------- | ------------ | ------------ | ------------------------------------------------------------------------------ | ----------------------- |
+| Example 1 (default) | /data/tv <br /> /data/movies | /tv          | /movies      | <pre> "SERVER_FILE_EXIST_PATH_MAPPINGS":{ <br>   "/mnt/unionfs/Media/":[ <br>      "/data/" <br>   ]<br>  }, </pre> |                         |
+|                     |                              |              |              |                                                                                |                         |
